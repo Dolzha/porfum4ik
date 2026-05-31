@@ -1,22 +1,27 @@
-# Porfum4ik — лендинг парфюмерии
+# 🌸 Porfum4ik — Perfume Landing
 
-Одноэкранный лендинг бренда парфюмерии (PERFUME-MODE): атмосферный hero, интерактивная галерея флакона с реальными фото, мобильная адаптивность.
+A single-screen landing page for a perfume brand. An atmospheric hero, an interactive bottle gallery with real product photos and full mobile responsiveness.
 
-🔗 **Живая версия:** https://porfum4ik.vercel.app
+**🔗 Live demo: [porfum4ik.vercel.app](https://porfum4ik.vercel.app)**
 
-## Стек
+![Porfum4ik preview](preview.jpg)
 
-- **Vite** + **React** + **TypeScript**
+## Features
+
+- Immersive full-screen hero
+- Interactive product (bottle) gallery
+- Smooth motion animations
+- Responsive layout
+
+## Tech stack
+
+- **Vite** · **React** · **TypeScript**
 - **Tailwind CSS**
-- **motion** (анимации)
+- **motion** (animations)
 
-## Запуск локально
+## Getting started
 
 ```bash
 npm install
 npm run dev
 ```
-
-## О проекте
-
-Учебный портфолио-проект. Бренд вымышленный, создан для демонстрации навыков фронтенд-вёрстки, анимации и работы с изображениями.
