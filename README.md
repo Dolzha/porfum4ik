@@ -1,4 +1,4 @@
-# 🌸 Porfum4ik — Perfume Landing
+# 🌸 Perfume Mode — Perfume Landing
 
 A single-screen landing page for a perfume brand. An atmospheric hero, an interactive bottle gallery with real product photos and full mobile responsiveness.
 
